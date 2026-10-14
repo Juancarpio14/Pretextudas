@@ -1,0 +1,17 @@
+{
+  "instagram_url": "",
+  "booking_url": "",
+  "payment_url": "",
+  "whatsapp_number": "",
+  "community_url": "",
+  "public_email": "",
+  "session_duration": "",
+  "session_price": "70",
+  "currency": "USD",
+  "country": "Colombia",
+  "timezone": "America/Bogota",
+  "workshop_duration": "2 horas",
+  "currency_confirmation_pending": false,
+  "workshop_price": "27",
+  "workshop_title": "De la vuelta al paso"
+}

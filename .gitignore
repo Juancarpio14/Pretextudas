@@ -1,0 +1,8 @@
+06_Web/datos/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*contactos_exportados*.csv
+*suscripciones.csv
